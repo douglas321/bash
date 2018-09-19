@@ -1,0 +1,8 @@
+total 16K
+drwxrwxrwx  4 compsci root    4.0K Sep 19 09:02 .
+drwxr-xr-x 30 compsci compsci 4.0K Sep 19 09:01 ..
+-rw-r--r--  1 compsci compsci    0 Sep 19 08:51 logErrors.txt
+-rw-r--r--  1 compsci compsci    0 Sep 19 09:02 logEverything.txt
+drwxr-xr-x  3 compsci compsci 4.0K Sep 17 08:39 Monday 17 September 2018
+-rwxrwxrwx  1 compsci compsci    0 Sep 13 08:44 my-backups.tgz
+drwxr-xr-x  2 compsci compsci 4.0K Sep 19 08:27 Wednesday 19 September 2018
