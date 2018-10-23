@@ -1,0 +1,1 @@
+./make_backups.sh: line 83: total_directories: command not found
